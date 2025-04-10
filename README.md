@@ -19,7 +19,6 @@
   <h3><li>Canny operator</li></h3>
 </ol>
 
-<h3>Execution times(in seconds):</h3>
 ### Sobel Operator
 |Image| GPU |CPU|
 | -------- | ------- | ------- |
